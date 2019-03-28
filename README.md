@@ -1,5 +1,7 @@
 prebuild/jupyter-caf-kernel/README.md
 
+#due to the JDK installation package is too big ,so it is impossible to upload the JDK installation package,please download JDK installation package before build the docker image .
+
 An Online jupyterNotebook  which contain C,python, and fortran in Docker 
 
 
@@ -18,6 +20,8 @@ then enter 'docker restart [containerId]' to restart the container
 open the browser and enter 'host:port' and enter the password which you have created
 
 一个在线的代码编译器支持C,python和fortran
+
+#由于JDK安装包太大，无法上传，因此，请先下载JDK安装包，然后build docker 镜像
 
 下载整个文件夹然后输入'docker build -t [repository]:[Tag]  . ' 去创建docker镜像
 
