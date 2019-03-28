@@ -1,6 +1,6 @@
 FROM sourceryinstitute/jupyter-caf-kernel:120b01234461
 
-MAINTAINER vdi_development
+MAINTAINER developer
 
 COPY index.ipynb ${HOME}
 # COPY examples ${HOME}
