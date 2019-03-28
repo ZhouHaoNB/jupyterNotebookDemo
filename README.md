@@ -1,6 +1,6 @@
 prebuild/jupyter-caf-kernel/README.md
 
-An Online jupyterNotebook  which contain C,java,python, and fortran in Docker 
+An Online jupyterNotebook  which contain C,python, and fortran in Docker 
 
 
 Upload the whole file and then run ' docker build -t  [repository]:[Tag]  . ' to create the docker images
@@ -17,7 +17,7 @@ then enter 'docker restart [containerId]' to restart the container
 
 open the browser and enter 'host:port' and enter the password which you have created
 
-一个在线的代码编译器支持C,java,python和fortran
+一个在线的代码编译器支持C,python和fortran
 
 下载整个文件夹然后输入'docker build -t [repository]:[Tag]  . ' 去创建docker镜像
 
