@@ -1,6 +1,6 @@
 prebuild/jupyter-caf-kernel/README.md
 
-#due to the JDK installation package is too big ,so it is impossible to upload the JDK installation package,please download JDK installation package before build the docker image .
+#due to the JDK installation package is too big ,so it is impossible to upload the JDK installation package,please download JDK installation package before building the docker image .
 
 An Online jupyterNotebook  which contain C,python, and fortran in Docker 
 
